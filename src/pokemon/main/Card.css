@@ -1,0 +1,19 @@
+.card-container{
+    display: inline-block;
+    overflow :hidden;
+    box-shadow: 0px 0px 15px -5px;
+    width: 25%;
+    padding: 2%;
+}
+
+
+.image-container img{
+    overflow: hidden;
+    height: 200px;
+}
+.name{
+    float: left;
+}
+.hp{
+    float: right;
+}
